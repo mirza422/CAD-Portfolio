@@ -23,3 +23,15 @@ a brushless motor and propeller assembly.
 **Files available:**
 - STEP model
 - .png file
+
+
+### Motor Adapter
+A motor adaptor (for mounting motor on aluminum profile) for T Motor F90 2806 1500kV
+
+**Design work included:**
+-T Motor F90 2806 1500kV
+-Frame design
+
+**Files available:**
+- STEP model
+- .png file
